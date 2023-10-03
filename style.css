@@ -1,0 +1,35 @@
+body{
+    background-color: red;
+}
+.Comunism{
+    background-color: black;
+    border: 10px solid white;
+    text-align: center;
+}
+.black-text{
+    color: white;
+    font-size: 3rem;
+}
+.threat{
+    background-color: aliceblue;
+    border: 10px solid black;
+    margin-top: 10px;
+}
+#hate{
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+}
+#nazi{
+    margin-top: 20px;
+    margin-left: 38%;
+}
+.auf{
+    width: 450px;
+    height: 350px;
+}
+a{
+    color: aliceblue;
+    font-size: 2rem;
+    margin-left: 20%;
+}
